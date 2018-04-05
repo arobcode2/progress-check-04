@@ -1,0 +1,10 @@
+#colors {
+  display: grid;
+  grid-template-columns: repeat(5, 100px);
+  justify-content: center;
+}
+
+.color {
+  width: 100px;
+  height: 100px;
+}
