@@ -8,3 +8,8 @@
   width: 100px;
   height: 100px;
 }
+
+#times {
+	display: grid;
+	justify-content: center;
+}
